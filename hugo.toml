@@ -1,0 +1,4 @@
+baseURL = 'https://lyz0603.github.io/'
+languageCode = 'zh-cn'
+title = '古猿百科'
+theme = 'hugo-book'
